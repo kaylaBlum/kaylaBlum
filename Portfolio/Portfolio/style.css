@@ -1,0 +1,18 @@
+ .logo {
+  background-color: transparent;
+  height: 88px;
+  left: 491px;
+  position: absolute;
+  top: 44px;
+  width: 58px;
+}
+body{
+    background-color: #332928;
+}
+.double{
+    color: #FEF1E8;
+    font-family: anonymous-pro, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12;
+}
